@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/MatchOrSmash/static/css/main.00acb374.css",
+    "main.js": "/MatchOrSmash/static/js/main.38b6c598.js",
+    "static/media/neil.png": "/MatchOrSmash/static/media/neil.547eac5e53670778ecf0.png",
+    "static/media/catwoman.png": "/MatchOrSmash/static/media/catwoman.42e01a2d50af312c3be1.png",
+    "static/media/harleyquinn.png": "/MatchOrSmash/static/media/harleyquinn.eeab87fba8eb6e61f34e.png",
+    "static/media/spiderman.png": "/MatchOrSmash/static/media/spiderman.2e2fcf3178beb740f49d.png",
+    "static/media/joker.png": "/MatchOrSmash/static/media/joker.5a5d518b6fcec11d15a1.png",
+    "static/media/batman.png": "/MatchOrSmash/static/media/batman.89abfcf29eaba6bcbd13.png",
+    "static/media/groot.png": "/MatchOrSmash/static/media/groot.f770af42d565e6d69750.png",
+    "static/media/zoro.png": "/MatchOrSmash/static/media/zoro.4119773f75c784cbc0c6.png",
+    "static/media/wonderwoman.png": "/MatchOrSmash/static/media/wonderwoman.387564aeab59fd5c2b40.png",
+    "static/media/loki.png": "/MatchOrSmash/static/media/loki.a3295f6b42c23102e2d7.png",
+    "static/media/thanos.png": "/MatchOrSmash/static/media/thanos.3af4a018047d48cf502e.png",
+    "static/media/comics.jpg": "/MatchOrSmash/static/media/comics.3b11bbe158b2a6430ee1.jpg",
+    "static/media/bigard.png": "/MatchOrSmash/static/media/bigard.c0c31d3a587b0ebb13ff.png",
+    "static/media/deadpool.jpg": "/MatchOrSmash/static/media/deadpool.2839b85d8d238578b827.jpg",
+    "static/media/ironman.jpg": "/MatchOrSmash/static/media/ironman.6f11190c4ba678b81cd0.jpg",
+    "static/media/yoda.jpg": "/MatchOrSmash/static/media/yoda.68d238def7f55c32ba7d.jpg",
+    "static/media/komikz.ttf": "/MatchOrSmash/static/media/komikz.f6ed6b8fb01ef1af6da1.ttf",
+    "index.html": "/MatchOrSmash/index.html",
+    "main.00acb374.css.map": "/MatchOrSmash/static/css/main.00acb374.css.map",
+    "main.38b6c598.js.map": "/MatchOrSmash/static/js/main.38b6c598.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00acb374.css",
+    "static/js/main.38b6c598.js"
+  ]
+}
